@@ -25,7 +25,7 @@ cmdstanpy==0.4.0
 colorlog==4.1.0
 command-not-found==0.3
 convertdate==2.2.0
-cryptography==3.2
+cryptography==3.3.2
 cupshelpers==1.0
 cycler==0.10.0
 cymem==2.0.3
