@@ -30,7 +30,7 @@ cupshelpers==1.0
 cycler==0.10.0
 cymem==2.0.3
 Cython==0.29.18
-dask==1.0.0
+dask==2021.10.0
 decorator==4.4.0
 defer==1.0.6
 defusedxml==0.6.0
