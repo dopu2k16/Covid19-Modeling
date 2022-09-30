@@ -65,7 +65,7 @@ japanmap==0.0.21
 jedi==0.13.1
 Jinja2==2.10
 jmespath==0.9.4
-joblib==0.15.1
+joblib==1.2.0
 jsonlines==1.2.0
 jsonschema==3.0.1
 jupyter-client==5.2.3
